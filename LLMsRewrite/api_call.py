@@ -28,11 +28,11 @@ def print_balance():
 
 def print_models():
     # for backward compatibility, you can still use `` as `base_url`.
-    client = OpenAI(api_key=api_key, base_url="deepseek url")
+    client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
     print(client.models.list())
 
 def api_call(messages: str) -> str:
-    url = "deepseek url"
+    url = "https://api.deepseek.com/chat/completions"
 
     payload = json.dumps({
         "messages": messages,
