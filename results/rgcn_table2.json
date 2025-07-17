@@ -1,0 +1,238 @@
+{
+    "cresci-2015-data": {
+        "0": {
+            "shortcut": {
+                "sentiments": {
+                    "tweets": 0.7486910994764397
+                },
+                "emotions": {
+                    "tweets": 0.9025641025641026
+                },
+                "topics": {
+                    "tweets": 0.9666666666666667
+                },
+                "values": {
+                    "tweets": 0.8153846153846154
+                }
+            },
+            "text-level": {
+                "sentiments": {
+                    "tweets": 0.8848167539267016
+                },
+                "emotions": {
+                    "tweets": 0.9512820512820512
+                },
+                "topics": {
+                    "tweets": 0.9384615384615385
+                },
+                "values": {
+                    "tweets": 0.7692307692307693
+                }
+            },
+            "dataset-level": {
+                "sentiments": {
+                    "tweets": 0.8769633507853403
+                },
+                "emotions": {
+                    "tweets": 0.9564102564102565
+                },
+                "topics": {
+                    "tweets": 0.9512820512820512
+                },
+                "values": {
+                    "tweets": 0.7871794871794872
+                }
+            },
+            "finetune": {
+                "sentiments": {
+                    "tweets": 0.8900523560209425
+                },
+                "emotions": {
+                    "tweets": 0.9461538461538461
+                },
+                "topics": {
+                    "tweets": 0.9
+                },
+                "values": {
+                    "tweets": 0.823076923076923
+                }
+            }
+        },
+        "1": {
+            "shortcut": {
+                "sentiments": {
+                    "tweets": 0.8691099476439791
+                },
+                "emotions": {
+                    "tweets": 0.941025641025641
+                },
+                "topics": {
+                    "tweets": 0.967948717948718
+                },
+                "values": {
+                    "tweets": 0.9038461538461539
+                }
+            },
+            "text-level": {
+                "sentiments": {
+                    "tweets": 0.9345549738219895
+                },
+                "emotions": {
+                    "tweets": 0.9692307692307692
+                },
+                "topics": {
+                    "tweets": 0.9653846153846154
+                },
+                "values": {
+                    "tweets": 0.8807692307692307
+                }
+            },
+            "dataset-level": {
+                "sentiments": {
+                    "tweets": 0.9293193717277487
+                },
+                "emotions": {
+                    "tweets": 0.9717948717948718
+                },
+                "topics": {
+                    "tweets": 0.9576923076923077
+                },
+                "values": {
+                    "tweets": 0.8910256410256411
+                }
+            },
+            "finetune": {
+                "sentiments": {
+                    "tweets": 0.9293193717277487
+                },
+                "emotions": {
+                    "tweets": 0.958974358974359
+                },
+                "topics": {
+                    "tweets": 0.9025641025641026
+                },
+                "values": {
+                    "tweets": 0.9051282051282051
+                }
+            }
+        }
+    },
+    "twibot-20": {
+        "0": {
+            "shortcut": {
+                "sentiments": {
+                    "tweets": 0.059880239520958084
+                },
+                "emotions": {
+                    "tweets": 0.12596899224806202
+                },
+                "topics": {
+                    "tweets": 0.18725868725868725
+                },
+                "values": {
+                    "tweets": 0.21526418786692758
+                }
+            },
+            "text-level": {
+                "sentiments": {
+                    "tweets": 0.2774451097804391
+                },
+                "emotions": {
+                    "tweets": 0.22286821705426357
+                },
+                "topics": {
+                    "tweets": 0.16312741312741313
+                },
+                "values": {
+                    "tweets": 0.2563600782778865
+                }
+            },
+            "dataset-level": {
+                "sentiments": {
+                    "tweets": 0.2684630738522954
+                },
+                "emotions": {
+                    "tweets": 0.22965116279069767
+                },
+                "topics": {
+                    "tweets": 0.10617760617760617
+                },
+                "values": {
+                    "tweets": 0.2455968688845401
+                }
+            },
+            "finetune": {
+                "sentiments": {
+                    "tweets": 0.5119760479041916
+                },
+                "emotions": {
+                    "tweets": 0.5658914728682171
+                },
+                "topics": {
+                    "tweets": 0.6254826254826255
+                },
+                "values": {
+                    "tweets": 0.5782778864970646
+                }
+            }
+        },
+        "1": {
+            "shortcut": {
+                "sentiments": {
+                    "tweets": 0.5219560878243513
+                },
+                "emotions": {
+                    "tweets": 0.5387596899224806
+                },
+                "topics": {
+                    "tweets": 0.5482625482625483
+                },
+                "values": {
+                    "tweets": 0.5636007827788649
+                }
+            },
+            "text-level": {
+                "sentiments": {
+                    "tweets": 0.5878243512974052
+                },
+                "emotions": {
+                    "tweets": 0.5726744186046512
+                },
+                "topics": {
+                    "tweets": 0.5617760617760618
+                },
+                "values": {
+                    "tweets": 0.5944227005870841
+                }
+            },
+            "dataset-level": {
+                "sentiments": {
+                    "tweets": 0.593812375249501
+                },
+                "emotions": {
+                    "tweets": 0.5581395348837209
+                },
+                "topics": {
+                    "tweets": 0.543918918918919
+                },
+                "values": {
+                    "tweets": 0.5817025440313112
+                }
+            },
+            "finetune": {
+                "sentiments": {
+                    "tweets": 0.6332335329341318
+                },
+                "emotions": {
+                    "tweets": 0.6531007751937985
+                },
+                "topics": {
+                    "tweets": 0.7041505791505791
+                },
+                "values": {
+                    "tweets": 0.6658512720156555
+                }
+            }
+        }
+    }
+}

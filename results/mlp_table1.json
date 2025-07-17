@@ -1,0 +1,392 @@
+{
+    "cresci-2015-data": {
+        "0": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.7727272727272727,
+                    "tweets": 0.9450261780104712
+                },
+                "emotions": {
+                    "description": 0.9022988505747126,
+                    "tweets": 0.982051282051282
+                },
+                "topics": {
+                    "description": 0.8807339449541285,
+                    "tweets": 0.9846153846153847
+                },
+                "values": {
+                    "description": 0.5714285714285714,
+                    "tweets": 0.9153846153846154
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.36363636363636365,
+                    "tweets": 0.5654450261780105
+                },
+                "emotions": {
+                    "description": 0.7729885057471264,
+                    "tweets": 0.8487179487179487
+                },
+                "topics": {
+                    "description": 0.7614678899082569,
+                    "tweets": 0.941025641025641
+                },
+                "values": {
+                    "description": 0.5357142857142857,
+                    "tweets": 0.658974358974359
+                }
+            }
+        },
+        "1": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.8181818181818182,
+                    "tweets": 0.9554973821989529
+                },
+                "emotions": {
+                    "description": 0.8899253731343284,
+                    "tweets": 0.9794871794871794
+                },
+                "topics": {
+                    "description": 0.8990825688073395,
+                    "tweets": 0.9730769230769231
+                },
+                "values": {
+                    "description": 0.7678571428571429,
+                    "tweets": 0.9282051282051282
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.6363636363636364,
+                    "tweets": 0.7801047120418848
+                },
+                "emotions": {
+                    "description": 0.8432835820895522,
+                    "tweets": 0.9166666666666666
+                },
+                "topics": {
+                    "description": 0.8555045871559633,
+                    "tweets": 0.9615384615384616
+                },
+                "values": {
+                    "description": 0.7142857142857143,
+                    "tweets": 0.8269230769230769
+                }
+            }
+        }
+    },
+    "cresci-2017-data": {
+        "0": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.75,
+                    "tweets": 0.8842592592592593
+                },
+                "emotions": {
+                    "description": 0.7720588235294118,
+                    "tweets": 0.963302752293578
+                },
+                "topics": {
+                    "description": 0.7658227848101266,
+                    "tweets": 0.8944954128440367
+                },
+                "values": {
+                    "description": 0.76,
+                    "tweets": 0.8899082568807339
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.19444444444444445,
+                    "tweets": 0.28703703703703703
+                },
+                "emotions": {
+                    "description": 0.5147058823529411,
+                    "tweets": 0.555045871559633
+                },
+                "topics": {
+                    "description": 0.5886075949367089,
+                    "tweets": 0.5871559633027523
+                },
+                "values": {
+                    "description": 0.52,
+                    "tweets": 0.5137614678899083
+                }
+            }
+        },
+        "1": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.75,
+                    "tweets": 0.9004629629629629
+                },
+                "emotions": {
+                    "description": 0.8198529411764706,
+                    "tweets": 0.9403669724770642
+                },
+                "topics": {
+                    "description": 0.7816455696202531,
+                    "tweets": 0.8853211009174312
+                },
+                "values": {
+                    "description": 0.8,
+                    "tweets": 0.8944954128440367
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.5416666666666666,
+                    "tweets": 0.625
+                },
+                "emotions": {
+                    "description": 0.7389705882352942,
+                    "tweets": 0.7660550458715596
+                },
+                "topics": {
+                    "description": 0.740506329113924,
+                    "tweets": 0.7568807339449541
+                },
+                "values": {
+                    "description": 0.7,
+                    "tweets": 0.7545871559633027
+                }
+            }
+        }
+    },
+    "cresci-stock-2018": {
+        "0": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.5307692307692308,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.5681818181818182,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.7173202614379085,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.5913461538461539,
+                    "tweets": -1
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.14615384615384616,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.2762237762237762,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.23366013071895425,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.2548076923076923,
+                    "tweets": -1
+                }
+            }
+        },
+        "1": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.5614035087719298,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.5891608391608392,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.6075,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.572289156626506,
+                    "tweets": -1
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.49122807017543857,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.5576923076923077,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.51625,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.48493975903614456,
+                    "tweets": -1
+                }
+            }
+        }
+    },
+    "midterm-2018": {
+        "0": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.5630252100840336,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.5454545454545454,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.8333333333333334,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.7492163009404389,
+                    "tweets": -1
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.2647058823529412,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.4431818181818182,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.4166666666666667,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.5266457680250783,
+                    "tweets": -1
+                }
+            }
+        },
+        "1": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.7352941176470589,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.7173295454545454,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.7713414634146342,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.7735109717868338,
+                    "tweets": -1
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.5945378151260504,
+                    "tweets": -1
+                },
+                "emotions": {
+                    "description": 0.671875,
+                    "tweets": -1
+                },
+                "topics": {
+                    "description": 0.6310975609756098,
+                    "tweets": -1
+                },
+                "values": {
+                    "description": 0.7139498432601881,
+                    "tweets": -1
+                }
+            }
+        }
+    },
+    "twibot-20": {
+        "0": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.55,
+                    "tweets": 0.6816367265469062
+                },
+                "emotions": {
+                    "description": 0.69921875,
+                    "tweets": 0.6841085271317829
+                },
+                "topics": {
+                    "description": 0.6167883211678832,
+                    "tweets": 0.6631274131274131
+                },
+                "values": {
+                    "description": 0.7467320261437909,
+                    "tweets": 0.6908023483365949
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.3448275862068966,
+                    "tweets": 0.05089820359281437
+                },
+                "emotions": {
+                    "description": 0.3645833333333333,
+                    "tweets": 0.11046511627906977
+                },
+                "topics": {
+                    "description": 0.3333333333333333,
+                    "tweets": 0.1640926640926641
+                },
+                "values": {
+                    "description": 0.4035947712418301,
+                    "tweets": 0.18003913894324852
+                }
+            }
+        },
+        "1": {
+            "standard": {
+                "sentiments": {
+                    "description": 0.6620689655172414,
+                    "tweets": 0.685129740518962
+                },
+                "emotions": {
+                    "description": 0.6453488372093024,
+                    "tweets": 0.687015503875969
+                },
+                "topics": {
+                    "description": 0.666058394160584,
+                    "tweets": 0.6838803088803089
+                },
+                "values": {
+                    "description": 0.677536231884058,
+                    "tweets": 0.6785714285714286
+                }
+            },
+            "shortcut": {
+                "sentiments": {
+                    "description": 0.5982758620689655,
+                    "tweets": 0.5234530938123753
+                },
+                "emotions": {
+                    "description": 0.5828488372093024,
+                    "tweets": 0.5203488372093024
+                },
+                "topics": {
+                    "description": 0.5875912408759124,
+                    "tweets": 0.5347490347490348
+                },
+                "values": {
+                    "description": 0.5960144927536232,
+                    "tweets": 0.5499021526418787
+                }
+            }
+        }
+    }
+}
