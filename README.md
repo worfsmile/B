@@ -1,5 +1,5 @@
-# BotsMeetShortcut
+# BotMeetsShortcut
 
-## Code for BotsMeetShortcut
+## Code for BotMeetsShortcut
 
 ## Dataset
