@@ -1,6 +1,6 @@
 
 """
-main code for mitigating strategy
+main code for mitigating strategies: text level and dataset level
 """
 
 import os
