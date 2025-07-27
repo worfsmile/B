@@ -1,4 +1,8 @@
 
+"""
+main code for mitigating strategy
+"""
+
 import os
 import json
 import torch

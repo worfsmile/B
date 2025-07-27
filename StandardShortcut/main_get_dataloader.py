@@ -14,18 +14,17 @@ import json
 
 data_dir = "."
 
+# with open('./data/basic/id2label.json', 'r') as f:
+#     label2id = json.load(f)
 
-with open('./data/basic/id2label.json', 'r') as f:
-    label2id = json.load(f)
+# id2label = {}
+# for key in label2id:
+#     id2label[key] = {}
+#     for l in label2id[key]:
+#         id2label[key][label2id[key][l]] = l
 
-id2label = {}
-for key in label2id:
-    id2label[key] = {}
-    for l in label2id[key]:
-        id2label[key][label2id[key][l]] = l
-
-with open('./data/split_idx/config_trans.json', 'r') as f:
-    split_idx = json.load(f)
+# with open('./data/split_idx/config_trans.json', 'r') as f:
+#     split_idx = json.load(f)
 
 def split_data(index, test_size=0.1, random_state=42):
     train_index, test_index = train_test_split(index, test_size=test_size, random_state=random_state)

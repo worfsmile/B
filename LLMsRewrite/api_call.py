@@ -14,7 +14,7 @@ api_key = ''
 
 
 def print_balance():
-    url = "deepseek url"
+    url = "https://api.deepseek.com/user/balance"
 
     payload={}
     headers = {
