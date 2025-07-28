@@ -49,7 +49,7 @@ def draw_feature(text):
 def prompter(label, raw_feature, feature, text_to_modify):    
     return f"""
     This tweet's user is a {label}, this tweets shows {raw_feature}. 
-    Please change as few words as possible to rewrite it to big different {feature} and don't change the sentence structure to keep the {label} feauture.
+    Please change as few words as possible to rewrite it to different {feature} and don't change the sentence structure to keep the {label} feauture.
     your answer just contain output without any extra content.
     Input: [{text_to_modify}]
     Output:\n
